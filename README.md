@@ -73,6 +73,32 @@ Total Kelas 7: 10 RPM, 114 JP, 153 halaman. Satu TP satu file PDF.
 
 Total Kelas 8: 11 RPM, 118 JP, 167 halaman. Satu TP satu file PDF.
 
+## Isi repo — Kelas 9
+
+### Semester Ganjil
+
+- [RPM A.7 Sistem Persamaan Linear Dua Variabel](kelas-9/a7-sistem-persamaan-linear-dua-variabel/rpm-matematika-kelas-9-a7-sistem-persamaan-linear-dua-variabel.pdf)
+  — Kelas 9 Semester 1, 18 JP (9 pertemuan × 2 JP), 16 halaman A4.
+- [RPM G.5 Jaring-jaring Bangun Ruang](kelas-9/g5-jaring-jaring-bangun-ruang/rpm-matematika-kelas-9-g5-jaring-jaring-bangun-ruang.pdf)
+  — Kelas 9 Semester 1, 6 JP (3 pertemuan × 2 JP), 14 halaman A4.
+- [RPM P.1 Bangun Ruang Sisi Datar](kelas-9/p1-bangun-ruang-sisi-datar/rpm-matematika-kelas-9-p1-bangun-ruang-sisi-datar.pdf)
+  — Kelas 9 Semester 1, 12 JP (6 pertemuan × 2 JP), 15 halaman A4.
+- [RPM P.2 Lingkaran](kelas-9/p2-lingkaran/rpm-matematika-kelas-9-p2-lingkaran.pdf)
+  — Kelas 9 Semester 1, 10 JP (5 pertemuan × 2 JP), 15 halaman A4.
+- [RPM P.3 Bangun Ruang Sisi Lengkung](kelas-9/p3-bangun-ruang-sisi-lengkung/rpm-matematika-kelas-9-p3-bangun-ruang-sisi-lengkung.pdf)
+  — Kelas 9 Semester 1, 18 JP (9 pertemuan × 2 JP), 16 halaman A4.
+
+### Semester Genap
+
+- [RPM G.6 Transformasi Geometri](kelas-9/g6-transformasi-geometri/rpm-matematika-kelas-9-g6-transformasi-geometri.pdf)
+  — Kelas 9 Semester 2, 18 JP (9 pertemuan × 2 JP), 16 halaman A4.
+- [RPM D.5 Ruang Sampel dan Peluang](kelas-9/d5-ruang-sampel-dan-peluang/rpm-matematika-kelas-9-d5-ruang-sampel-dan-peluang.pdf)
+  — Kelas 9 Semester 2, 8 JP (4 pertemuan × 2 JP), 14 halaman A4.
+- [RPM D.6 Frekuensi Relatif dan Frekuensi Harapan](kelas-9/d6-frekuensi-relatif-dan-frekuensi-harapan/rpm-matematika-kelas-9-d6-frekuensi-relatif-dan-frekuensi-harapan.pdf)
+  — Kelas 9 Semester 2, 8 JP (4 pertemuan × 2 JP), 14 halaman A4.
+
+Total Kelas 9: 8 RPM, 98 JP, 120 halaman. Satu TP satu file PDF.
+
 ## Media pendamping
 
 Media Pembelajaran Interaktif (MPI) Matematika SMP:
