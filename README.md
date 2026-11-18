@@ -41,6 +41,38 @@ Kepala Sekolah: Muryanto, S.Pd. (NIP 196901101998021002)
 
 Total Kelas 7: 10 RPM, 114 JP, 153 halaman. Satu TP satu file PDF.
 
+## Isi repo — Kelas 8
+
+### Semester Ganjil
+
+- [RPM B.5 Bilangan Berpangkat](kelas-8/b5-bilangan-berpangkat/rpm-matematika-kelas-8-b5-bilangan-berpangkat.pdf)
+  — Kelas 8 Semester 1, 10 JP (5 pertemuan × 2 JP), 14 halaman A4.
+- [RPM B.6 Bentuk Akar](kelas-8/b6-bentuk-akar/rpm-matematika-kelas-8-b6-bentuk-akar.pdf)
+  — Kelas 8 Semester 1, 8 JP (4 pertemuan × 2 JP), 14 halaman A4.
+- [RPM B.7 Bentuk Baku](kelas-8/b7-bentuk-baku/rpm-matematika-kelas-8-b7-bentuk-baku.pdf)
+  — Kelas 8 Semester 1, 6 JP (3 pertemuan × 2 JP), 14 halaman A4.
+- [RPM G.4 Teorema Pythagoras](kelas-8/g4-teorema-pythagoras/rpm-matematika-kelas-8-g4-teorema-pythagoras.pdf)
+  — Kelas 8 Semester 1, 20 JP (10 pertemuan × 2 JP), 19 halaman A4.
+- [RPM A.2 Persamaan Linear Satu Variabel](kelas-8/a2-persamaan-linear-satu-variabel/rpm-matematika-kelas-8-a2-persamaan-linear-satu-variabel.pdf)
+  — Kelas 8 Semester 1, 10 JP (5 pertemuan × 2 JP), 14 halaman A4.
+- [RPM A.3 Pertidaksamaan Linear Satu Variabel](kelas-8/a3-pertidaksamaan-linear-satu-variabel/rpm-matematika-kelas-8-a3-pertidaksamaan-linear-satu-variabel.pdf)
+  — Kelas 8 Semester 1, 10 JP (5 pertemuan × 2 JP), 14 halaman A4.
+
+### Semester Genap
+
+- [RPM A.4 Pola Bilangan](kelas-8/a4-pola-bilangan/rpm-matematika-kelas-8-a4-pola-bilangan.pdf)
+  — Kelas 8 Semester 2, 10 JP (5 pertemuan × 2 JP), 14 halaman A4.
+- [RPM A.5 Relasi dan Fungsi](kelas-8/a5-relasi-dan-fungsi/rpm-matematika-kelas-8-a5-relasi-dan-fungsi.pdf)
+  — Kelas 8 Semester 2, 14 JP (7 pertemuan × 2 JP), 17 halaman A4.
+- [RPM A.6 Persamaan Garis Lurus](kelas-8/a6-persamaan-garis-lurus/rpm-matematika-kelas-8-a6-persamaan-garis-lurus.pdf)
+  — Kelas 8 Semester 2, 18 JP (9 pertemuan × 2 JP), 18 halaman A4.
+- [RPM D.3 Sampel dan Populasi](kelas-8/d3-sampel-dan-populasi/rpm-matematika-kelas-8-d3-sampel-dan-populasi.pdf)
+  — Kelas 8 Semester 2, 4 JP (2 pertemuan × 2 JP), 15 halaman A4.
+- [RPM D.4 Ukuran Pemusatan Data](kelas-8/d4-ukuran-pemusatan-data/rpm-matematika-kelas-8-d4-ukuran-pemusatan-data.pdf)
+  — Kelas 8 Semester 2, 8 JP (4 pertemuan × 2 JP), 14 halaman A4.
+
+Total Kelas 8: 11 RPM, 118 JP, 167 halaman. Satu TP satu file PDF.
+
 ## Media pendamping
 
 Media Pembelajaran Interaktif (MPI) Matematika SMP:
