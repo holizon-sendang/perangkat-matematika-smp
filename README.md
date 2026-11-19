@@ -41,6 +41,14 @@ Kepala Sekolah: Muryanto, S.Pd. (NIP 196901101998021002)
 - [Soal PTS Genap Matematika Kelas 7 (Word)](pts/kelas-7/Soal_PTS_Genap_Matematika_Kelas_7_2026-2027.docx)
   — Versi Word yang dapat disunting.
 
+## Kriteria Ketercapaian Tujuan Pembelajaran (KKTP) — Kelas 7
+
+- [KKTP Matematika Kelas 7 (PDF)](kktp/kelas-7/KKTP_Matematika_Kelas_7_2026-2027.pdf)
+  — 10 TP Kelas 7 (114 JP) dengan deskriptor 4 level: BB, MB, BSH, BSB; tuntas = BSH
+  ke atas (nilai ≥ 70).
+- [KKTP Matematika Kelas 7 (Word)](kktp/kelas-7/KKTP_Matematika_Kelas_7_2026-2027.docx)
+  — Versi Word yang dapat disunting, sudah ditandatangani.
+
 ## Isi repo — Kelas 7
 
 ### Semester Ganjil
