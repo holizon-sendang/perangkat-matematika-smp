@@ -49,6 +49,22 @@ Kepala Sekolah: Muryanto, S.Pd. (NIP 196901101998021002)
 - [KKTP Matematika Kelas 7 (Word)](kktp/kelas-7/KKTP_Matematika_Kelas_7_2026-2027.docx)
   — Versi Word yang dapat disunting, sudah ditandatangani.
 
+## Kriteria Ketercapaian Tujuan Pembelajaran (KKTP) — Kelas 8
+
+- [KKTP Matematika Kelas 8 (PDF)](kktp/kelas-8/KKTP_Matematika_Kelas_8_2026-2027.pdf)
+  — 11 TP Kelas 8 (118 JP) dengan deskriptor 4 level: BB, MB, BSH, BSB; tuntas = BSH
+  ke atas (nilai ≥ 70).
+- [KKTP Matematika Kelas 8 (Word)](kktp/kelas-8/KKTP_Matematika_Kelas_8_2026-2027.docx)
+  — Versi Word yang dapat disunting, sudah ditandatangani.
+
+## Kriteria Ketercapaian Tujuan Pembelajaran (KKTP) — Kelas 9
+
+- [KKTP Matematika Kelas 9 (PDF)](kktp/kelas-9/KKTP_Matematika_Kelas_9_2026-2027.pdf)
+  — 8 TP Kelas 9 (98 JP) dengan deskriptor 4 level: BB, MB, BSH, BSB; tuntas = BSH
+  ke atas (nilai ≥ 70).
+- [KKTP Matematika Kelas 9 (Word)](kktp/kelas-9/KKTP_Matematika_Kelas_9_2026-2027.docx)
+  — Versi Word yang dapat disunting, sudah ditandatangani.
+
 ## Isi repo — Kelas 7
 
 ### Semester Ganjil
