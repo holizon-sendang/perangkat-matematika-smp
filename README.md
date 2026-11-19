@@ -11,6 +11,14 @@ Satuan Pendidikan: SMP Negeri 2 Sendang Agung
 Guru: Holizon, S.Pd. (NIP 197304041998021001)
 Kepala Sekolah: Muryanto, S.Pd. (NIP 196901101998021002)
 
+## Program Tahunan (PROTA)
+
+- [PROTA Matematika Kelas 7 Tahun Pelajaran 2026/2027 (PDF)](prota/kelas-7/PROTA_Matematika_Kelas_7_2026-2027.pdf)
+  — Program Tahunan dan Program Semester, 4 halaman A4: perhitungan pekan efektif
+  (37 pekan efektif, 185 JP), 10 TP (114 JP), dan distribusi mingguan per semester.
+- [PROTA Matematika Kelas 7 Tahun Pelajaran 2026/2027 (Word)](prota/kelas-7/PROTA_Matematika_Kelas_7_2026-2027.docx)
+  — Versi Word yang dapat disunting, sudah ditandatangani.
+
 ## Isi repo — Kelas 7
 
 ### Semester Ganjil
