@@ -51,6 +51,50 @@ Kepala Sekolah: Muryanto, S.Pd. (NIP 196901101998021002)
 - [Soal PTS Genap Matematika Kelas 7 (Word)](pts/kelas-7/Soal_PTS_Genap_Matematika_Kelas_7_2026-2027.docx)
   — Versi Word yang dapat disunting.
 
+## Penilaian Tengah Semester (PTS) — Kelas 8
+
+- [Kisi-Kisi Soal PTS Ganjil Matematika Kelas 8 (PDF)](pts/kelas-8/Kisi_Kisi_PTS_Ganjil_Matematika_Kelas_8_2026-2027.pdf)
+  — 30 soal, PTS Ganjil 12–17 Oktober 2026: B.5, B.6, B.7, G.4, A.2 lengkap; A.3 baru
+  Pertemuan 1.
+- [Kisi-Kisi Soal PTS Ganjil Matematika Kelas 8 (Word)](pts/kelas-8/Kisi_Kisi_PTS_Ganjil_Matematika_Kelas_8_2026-2027.docx)
+  — Versi Word yang dapat disunting, sudah ditandatangani.
+- [Soal PTS Ganjil Matematika Kelas 8 (PDF)](pts/kelas-8/Soal_PTS_Ganjil_Matematika_Kelas_8_2026-2027.pdf)
+  — 30 soal (15 pilihan ganda, 5 benar/salah, 5 menjodohkan, 3 isian singkat, 2 uraian)
+  + kunci jawaban dan pembahasan di halaman terakhir (hanya untuk guru). Skor maksimal 41, KKM 70.
+- [Soal PTS Ganjil Matematika Kelas 8 (Word)](pts/kelas-8/Soal_PTS_Ganjil_Matematika_Kelas_8_2026-2027.docx)
+  — Versi Word yang dapat disunting.
+- [Kisi-Kisi Soal PTS Genap Matematika Kelas 8 (PDF)](pts/kelas-8/Kisi_Kisi_PTS_Genap_Matematika_Kelas_8_2026-2027.pdf)
+  — 30 soal, PTS Genap 24–31 Maret 2027: A.4, A.5 lengkap; A.6 Pertemuan 1–8.
+- [Kisi-Kisi Soal PTS Genap Matematika Kelas 8 (Word)](pts/kelas-8/Kisi_Kisi_PTS_Genap_Matematika_Kelas_8_2026-2027.docx)
+  — Versi Word yang dapat disunting, sudah ditandatangani.
+- [Soal PTS Genap Matematika Kelas 8 (PDF)](pts/kelas-8/Soal_PTS_Genap_Matematika_Kelas_8_2026-2027.pdf)
+  — 30 soal (15 pilihan ganda, 5 benar/salah, 5 menjodohkan, 3 isian singkat, 2 uraian)
+  + kunci jawaban dan pembahasan di halaman terakhir (hanya untuk guru). Skor maksimal 41, KKM 70.
+- [Soal PTS Genap Matematika Kelas 8 (Word)](pts/kelas-8/Soal_PTS_Genap_Matematika_Kelas_8_2026-2027.docx)
+  — Versi Word yang dapat disunting.
+
+## Penilaian Tengah Semester (PTS) — Kelas 9
+
+- [Kisi-Kisi Soal PTS Ganjil Matematika Kelas 9 (PDF)](pts/kelas-9/Kisi_Kisi_PTS_Ganjil_Matematika_Kelas_9_2026-2027.pdf)
+  — 30 soal, PTS Ganjil 12–17 Oktober 2026: A.7, G.5, P.1, P.2 lengkap; P.3
+  Pertemuan 1–5.
+- [Kisi-Kisi Soal PTS Ganjil Matematika Kelas 9 (Word)](pts/kelas-9/Kisi_Kisi_PTS_Ganjil_Matematika_Kelas_9_2026-2027.docx)
+  — Versi Word yang dapat disunting, sudah ditandatangani.
+- [Soal PTS Ganjil Matematika Kelas 9 (PDF)](pts/kelas-9/Soal_PTS_Ganjil_Matematika_Kelas_9_2026-2027.pdf)
+  — 30 soal (15 pilihan ganda, 5 benar/salah, 5 menjodohkan, 3 isian singkat, 2 uraian)
+  + kunci jawaban dan pembahasan di halaman terakhir (hanya untuk guru). Skor maksimal 41, KKM 70.
+- [Soal PTS Ganjil Matematika Kelas 9 (Word)](pts/kelas-9/Soal_PTS_Ganjil_Matematika_Kelas_9_2026-2027.docx)
+  — Versi Word yang dapat disunting.
+- [Kisi-Kisi Soal PTS Genap Matematika Kelas 9 (PDF)](pts/kelas-9/Kisi_Kisi_PTS_Genap_Matematika_Kelas_9_2026-2027.pdf)
+  — 30 soal, PTS Genap 24–31 Maret 2027: G.6, D.5, D.6 lengkap.
+- [Kisi-Kisi Soal PTS Genap Matematika Kelas 9 (Word)](pts/kelas-9/Kisi_Kisi_PTS_Genap_Matematika_Kelas_9_2026-2027.docx)
+  — Versi Word yang dapat disunting, sudah ditandatangani.
+- [Soal PTS Genap Matematika Kelas 9 (PDF)](pts/kelas-9/Soal_PTS_Genap_Matematika_Kelas_9_2026-2027.pdf)
+  — 30 soal (15 pilihan ganda, 5 benar/salah, 5 menjodohkan, 3 isian singkat, 2 uraian)
+  + kunci jawaban dan pembahasan di halaman terakhir (hanya untuk guru). Skor maksimal 41, KKM 70.
+- [Soal PTS Genap Matematika Kelas 9 (Word)](pts/kelas-9/Soal_PTS_Genap_Matematika_Kelas_9_2026-2027.docx)
+  — Versi Word yang dapat disunting.
+
 ## Kriteria Ketercapaian Tujuan Pembelajaran (KKTP) — Kelas 7
 
 - [KKTP Matematika Kelas 7 (PDF)](kktp/kelas-7/KKTP_Matematika_Kelas_7_2026-2027.pdf)
