@@ -19,6 +19,28 @@ Kepala Sekolah: Muryanto, S.Pd. (NIP 196901101998021002)
 - [PROTA Matematika Kelas 7 Tahun Pelajaran 2026/2027 (Word)](prota/kelas-7/PROTA_Matematika_Kelas_7_2026-2027.docx)
   — Versi Word yang dapat disunting, sudah ditandatangani.
 
+## Penilaian Tengah Semester (PTS) — Kelas 7
+
+- [Kisi-Kisi Soal PTS Ganjil Matematika Kelas 7 (PDF)](pts/kelas-7/Kisi_Kisi_PTS_Ganjil_Matematika_Kelas_7_2026-2027.pdf)
+  — 30 soal, PTS Ganjil 12–17 Oktober 2026: B.1, B.2, B.3 lengkap; B.4 Pertemuan 1–5.
+- [Kisi-Kisi Soal PTS Ganjil Matematika Kelas 7 (Word)](pts/kelas-7/Kisi_Kisi_PTS_Ganjil_Matematika_Kelas_7_2026-2027.docx)
+  — Versi Word yang dapat disunting, sudah ditandatangani.
+- [Soal PTS Ganjil Matematika Kelas 7 (PDF)](pts/kelas-7/Soal_PTS_Ganjil_Matematika_Kelas_7_2026-2027.pdf)
+  — 30 soal (15 pilihan ganda, 5 benar/salah, 5 menjodohkan, 3 isian singkat, 2 uraian)
+  + kunci jawaban dan pembahasan di halaman terakhir (hanya untuk guru). Skor maksimal 41, KKM 70.
+- [Soal PTS Ganjil Matematika Kelas 7 (Word)](pts/kelas-7/Soal_PTS_Ganjil_Matematika_Kelas_7_2026-2027.docx)
+  — Versi Word yang dapat disunting.
+- [Kisi-Kisi Soal PTS Genap Matematika Kelas 7 (PDF)](pts/kelas-7/Kisi_Kisi_PTS_Genap_Matematika_Kelas_7_2026-2027.pdf)
+  — 30 soal, PTS Genap 24–31 Maret 2027: A.1, G.1, G.2, G.3 lengkap; D.1 baru awal
+  Pertemuan 1 (jenis data).
+- [Kisi-Kisi Soal PTS Genap Matematika Kelas 7 (Word)](pts/kelas-7/Kisi_Kisi_PTS_Genap_Matematika_Kelas_7_2026-2027.docx)
+  — Versi Word yang dapat disunting, sudah ditandatangani.
+- [Soal PTS Genap Matematika Kelas 7 (PDF)](pts/kelas-7/Soal_PTS_Genap_Matematika_Kelas_7_2026-2027.pdf)
+  — 30 soal (15 pilihan ganda, 5 benar/salah, 5 menjodohkan, 3 isian singkat, 2 uraian)
+  + kunci jawaban dan pembahasan di halaman terakhir (hanya untuk guru). Skor maksimal 41, KKM 70.
+- [Soal PTS Genap Matematika Kelas 7 (Word)](pts/kelas-7/Soal_PTS_Genap_Matematika_Kelas_7_2026-2027.docx)
+  — Versi Word yang dapat disunting.
+
 ## Isi repo — Kelas 7
 
 ### Semester Ganjil
