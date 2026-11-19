@@ -18,6 +18,16 @@ Kepala Sekolah: Muryanto, S.Pd. (NIP 196901101998021002)
   (37 pekan efektif, 185 JP), 10 TP (114 JP), dan distribusi mingguan per semester.
 - [PROTA Matematika Kelas 7 Tahun Pelajaran 2026/2027 (Word)](prota/kelas-7/PROTA_Matematika_Kelas_7_2026-2027.docx)
   — Versi Word yang dapat disunting, sudah ditandatangani.
+- [PROTA Matematika Kelas 8 Tahun Pelajaran 2026/2027 (PDF)](prota/kelas-8/PROTA_Matematika_Kelas_8_2026-2027.pdf)
+  — Program Tahunan dan Program Semester, 4 halaman A4: perhitungan pekan efektif
+  (37 pekan efektif, 185 JP), 11 TP (118 JP), dan distribusi mingguan per semester.
+- [PROTA Matematika Kelas 8 Tahun Pelajaran 2026/2027 (Word)](prota/kelas-8/PROTA_Matematika_Kelas_8_2026-2027.docx)
+  — Versi Word yang dapat disunting, sudah ditandatangani.
+- [PROTA Matematika Kelas 9 Tahun Pelajaran 2026/2027 (PDF)](prota/kelas-9/PROTA_Matematika_Kelas_9_2026-2027.pdf)
+  — Program Tahunan dan Program Semester, 4 halaman A4: perhitungan pekan efektif
+  (37 pekan efektif, 185 JP), 8 TP (98 JP), dan distribusi mingguan per semester.
+- [PROTA Matematika Kelas 9 Tahun Pelajaran 2026/2027 (Word)](prota/kelas-9/PROTA_Matematika_Kelas_9_2026-2027.docx)
+  — Versi Word yang dapat disunting, sudah ditandatangani.
 
 ## Penilaian Tengah Semester (PTS) — Kelas 7
 
