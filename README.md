@@ -41,8 +41,8 @@ Kepala Sekolah: Muryanto, S.Pd. (NIP 196901101998021002)
 - [Soal PTS Ganjil Matematika Kelas 7 (Word)](pts/kelas-7/Soal_PTS_Ganjil_Matematika_Kelas_7_2026-2027.docx)
   — Versi Word yang dapat disunting.
 - [Kisi-Kisi Soal PTS Genap Matematika Kelas 7 (PDF)](pts/kelas-7/Kisi_Kisi_PTS_Genap_Matematika_Kelas_7_2026-2027.pdf)
-  — 30 soal, PTS Genap 24–31 Maret 2027: A.1, G.1, G.2, G.3 lengkap; D.1 baru awal
-  Pertemuan 1 (jenis data).
+  — 30 soal, PTS Genap 24–31 Maret 2027: A.1, G.1, G.2, G.3 lengkap; D.1 tidak
+  diujikan.
 - [Kisi-Kisi Soal PTS Genap Matematika Kelas 7 (Word)](pts/kelas-7/Kisi_Kisi_PTS_Genap_Matematika_Kelas_7_2026-2027.docx)
   — Versi Word yang dapat disunting, sudah ditandatangani.
 - [Soal PTS Genap Matematika Kelas 7 (PDF)](pts/kelas-7/Soal_PTS_Genap_Matematika_Kelas_7_2026-2027.pdf)
